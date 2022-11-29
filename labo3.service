@@ -1,0 +1,8 @@
+[Unit]
+Description=Systemd service for logging temperature in DB
+
+[Service]
+ExecStart=/home/liem/labo3/b.out
+
+[Install]
+WantedBy=default.target

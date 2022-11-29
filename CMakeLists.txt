@@ -1,0 +1,5 @@
+cmake_minimum_required (VERSION 2.6)
+project (Labo2)
+include_directories(/usr/include/mariadb /usr/include/mariadb/mysql /usr/include/json-c)
+add_executable(Labo2 labo2.c)
+target_link_libraries(Labo2 mariadb json-c)

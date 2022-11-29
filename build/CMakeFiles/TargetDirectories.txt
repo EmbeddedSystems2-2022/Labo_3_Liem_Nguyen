@@ -1,0 +1,3 @@
+/home/liem/labo2/build/CMakeFiles/rebuild_cache.dir
+/home/liem/labo2/build/CMakeFiles/edit_cache.dir
+/home/liem/labo2/build/CMakeFiles/Labo2.dir

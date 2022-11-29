@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/Labo2.dir/labo2.c.o -o Labo2  -lmariadb -ljson-c 
